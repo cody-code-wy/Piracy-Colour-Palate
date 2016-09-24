@@ -1,0 +1,104 @@
+.cards1 {
+  width: 100%;
+}
+
+.cards2 {
+  width: 48%;
+}
+
+.cards3 {
+  width: 30.667%;
+}
+
+.cards4 {
+  width: 22%;
+}
+
+.cards5 {
+  width: 16.8%;
+}
+
+.cards6 {
+  width: 13.333%;
+}
+
+.cards7 {
+  width: 10.857%;
+}
+
+.cards8 {
+  width: 9%;
+}
+
+.swatch {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.swatch > h2 {
+  width: 100%;
+  text-align: center;
+}
+
+.swatch > p {
+  width: 100%;
+  text-align: justify;
+  padding-left: 4%;
+  font-weight: bold;
+}
+
+.swatch > span {
+  width: 100%;
+  text-align: right;
+}
+
+.swatch > span > a {
+  color: rgb(45,159,243);
+  text-decoration: none;
+}
+
+.swatch > span > a:hover {
+  color: rgb(13,135,224);
+  text-decoration: underline;
+}
+
+.colour {
+  height: 8em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.colour > div {
+  width: 100%;
+  flex-grow: 1;
+  border: 2px solid #888;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.colour > h2 {
+  flex-grow: 0;
+  text-align: center;
+  color: #333;
+}
+
+body {
+  background: #DDD;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.wrapper {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

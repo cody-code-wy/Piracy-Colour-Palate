@@ -1,0 +1,137 @@
+/* Flow */
+
+.flowBlue {
+  background: #2D9FF3;
+}
+
+.flowBlueDark {
+  background: rgb(13,135,224);
+}
+
+.flowBlueLight {
+  background: rgb(235,246,255);
+}
+
+.flowLogoLight {
+  background: rgb(142,212,254);
+}
+
+.flowLogoDark {
+  background: rgb(70,177,255);
+}
+
+/* XKCD */
+
+.xkcdBlue {
+  background: rgb(150,168,200);
+}
+
+.xkcdSlate {
+  background: rgb(110,123,145);
+}
+
+/* Google */
+
+.googleBlue {
+  background: rgb(66,133,244);
+}
+
+.googleRed {
+  background: rgb(234,67,53);
+}
+
+.googleYellow {
+  background: rgb(251,188,5);
+}
+
+.googleGreen {
+  background: rgb(52,168,83);
+}
+
+.googleBlueLight {
+  background: rgb(77,144,254);
+}
+
+.googleGrey {
+  background: rgb(248,248,248);
+}
+
+.googleGreyLight {
+  background: rgb(244,244,244);
+}
+
+.googleGreyDark {
+  background: rgb(198,198,198);
+}
+
+/* David's Tea */
+
+.davidTeal {
+  background: rgb(0,177,176);
+}
+
+.davidGreen {
+  background: rgb(122,155,73);
+}
+
+.davidTealDark {
+  background: rgb(0,123,95);
+}
+
+.davidBlueLight {
+  background: rgb(141,213,188);
+}
+
+.davidCustard {
+  background: rgb(254,182,0);
+}
+
+.davidPumpkin {
+  background: rgb(252,103,24);
+}
+
+.davidPomegranate {
+  background: rgb(128,33,68);
+}
+
+.davidTealLight {
+  background: rgb(141,213,189);
+}
+
+.davidBlue {
+  background: rgb(15,123,119);
+}
+
+/* David's Teas (tea colors) */
+
+.davidWhiteTea {
+  background: rgb(181,227,216);
+}
+
+.davidGreenTea {
+  background: #b7dd79;
+}
+
+.davidBlackTea {
+  background: rgb(0,56,101);
+}
+
+.davidOolongTea {
+  background: rgb(41,143,194);
+}
+
+.davidpuerhTea {
+  background: rgb(108,29,69);
+}
+
+.davidMate {
+  background: rgb(206,15,105);
+}
+
+.davidRoobos {
+  background: rgb(255,143,28);
+}
+
+.davidHerbal {
+  background: rgb(251,221,64);
+}
