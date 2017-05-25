@@ -1,4 +1,4 @@
-# Piracy Clour Palate
+# Piracy Colour Palate
 
 ###### An Unstable.tech Production
 
